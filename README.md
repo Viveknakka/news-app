@@ -36,5 +36,8 @@ A daily news website that provides news updates across various categories. This 
 ### Steps to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/daily-news-website.git
-   cd daily-news-website
+   git clone https://github.com/Viveknakka/news-app
+   cd news-app
+2. npm install
+3. npm start
+   
